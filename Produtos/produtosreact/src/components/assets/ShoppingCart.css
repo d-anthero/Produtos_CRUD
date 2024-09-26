@@ -1,0 +1,9 @@
+.bd *{
+    font-size: 13px;
+}
+
+.cartButton{
+    position: fixed;
+    right: 100px;
+    top: -4px;
+}

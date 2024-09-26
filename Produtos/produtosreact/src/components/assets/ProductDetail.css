@@ -1,0 +1,7 @@
+.header *{
+    font-size: 11px;
+
+}
+.header > input{
+    width: 20vh;
+}
