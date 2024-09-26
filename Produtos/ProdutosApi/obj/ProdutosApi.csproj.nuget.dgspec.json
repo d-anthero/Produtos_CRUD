@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\projetos\\ProdutosApi\\ProdutosApi\\ProdutosApi.csproj": {}
+    "I:\\Produtos_CRUD\\Produtos\\ProdutosApi\\ProdutosApi.csproj": {}
   },
   "projects": {
-    "I:\\projetos\\ProdutosApi\\ProdutosApi\\ProdutosApi.csproj": {
+    "I:\\Produtos_CRUD\\Produtos\\ProdutosApi\\ProdutosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\projetos\\ProdutosApi\\ProdutosApi\\ProdutosApi.csproj",
+        "projectUniqueName": "I:\\Produtos_CRUD\\Produtos\\ProdutosApi\\ProdutosApi.csproj",
         "projectName": "ProdutosApi",
-        "projectPath": "I:\\projetos\\ProdutosApi\\ProdutosApi\\ProdutosApi.csproj",
+        "projectPath": "I:\\Produtos_CRUD\\Produtos\\ProdutosApi\\ProdutosApi.csproj",
         "packagesPath": "C:\\Users\\Davi\\.nuget\\packages\\",
-        "outputPath": "I:\\projetos\\ProdutosApi\\ProdutosApi\\obj\\",
+        "outputPath": "I:\\Produtos_CRUD\\Produtos\\ProdutosApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Davi\\AppData\\Roaming\\NuGet\\NuGet.Config",

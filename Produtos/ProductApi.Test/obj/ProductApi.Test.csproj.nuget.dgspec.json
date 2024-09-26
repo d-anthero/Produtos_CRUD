@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\projetos\\ProdutosApi\\ProductApi.Test\\ProductApi.Test.csproj": {}
+    "I:\\Produtos_CRUD\\Produtos\\ProductApi.Test\\ProductApi.Test.csproj": {}
   },
   "projects": {
-    "I:\\projetos\\ProdutosApi\\ProductApi.Test\\ProductApi.Test.csproj": {
+    "I:\\Produtos_CRUD\\Produtos\\ProductApi.Test\\ProductApi.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\projetos\\ProdutosApi\\ProductApi.Test\\ProductApi.Test.csproj",
+        "projectUniqueName": "I:\\Produtos_CRUD\\Produtos\\ProductApi.Test\\ProductApi.Test.csproj",
         "projectName": "ProductApi.Test",
-        "projectPath": "I:\\projetos\\ProdutosApi\\ProductApi.Test\\ProductApi.Test.csproj",
+        "projectPath": "I:\\Produtos_CRUD\\Produtos\\ProductApi.Test\\ProductApi.Test.csproj",
         "packagesPath": "C:\\Users\\Davi\\.nuget\\packages\\",
-        "outputPath": "I:\\projetos\\ProdutosApi\\ProductApi.Test\\obj\\",
+        "outputPath": "I:\\Produtos_CRUD\\Produtos\\ProductApi.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Davi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "I:\\projetos\\ProdutosApi\\ProdutosApi\\ProdutosApi.csproj": {
-                "projectPath": "I:\\projetos\\ProdutosApi\\ProdutosApi\\ProdutosApi.csproj"
+              "I:\\Produtos_CRUD\\Produtos\\ProdutosApi\\ProdutosApi.csproj": {
+                "projectPath": "I:\\Produtos_CRUD\\Produtos\\ProdutosApi\\ProdutosApi.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "I:\\projetos\\ProdutosApi\\ProdutosApi\\ProdutosApi.csproj": {
+    "I:\\Produtos_CRUD\\Produtos\\ProdutosApi\\ProdutosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\projetos\\ProdutosApi\\ProdutosApi\\ProdutosApi.csproj",
+        "projectUniqueName": "I:\\Produtos_CRUD\\Produtos\\ProdutosApi\\ProdutosApi.csproj",
         "projectName": "ProdutosApi",
-        "projectPath": "I:\\projetos\\ProdutosApi\\ProdutosApi\\ProdutosApi.csproj",
+        "projectPath": "I:\\Produtos_CRUD\\Produtos\\ProdutosApi\\ProdutosApi.csproj",
         "packagesPath": "C:\\Users\\Davi\\.nuget\\packages\\",
-        "outputPath": "I:\\projetos\\ProdutosApi\\ProdutosApi\\obj\\",
+        "outputPath": "I:\\Produtos_CRUD\\Produtos\\ProdutosApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Davi\\AppData\\Roaming\\NuGet\\NuGet.Config",
